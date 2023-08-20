@@ -1,0 +1,35 @@
+ 
+
+ body{
+     background-color: darkorange;
+ }
+ 
+ 
+ /* color */
+
+#color{
+    width: 400px;
+    margin: 200px auto 0px auto;
+    background-color:rgba(30, 30, 30, 0.4);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+#color  input[type]{
+    width: 100%;
+}
+
+
+
+#color .btn{
+    text-align: center;
+} 
+ .btn  #random{
+    text-align: center;
+    padding: 7px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
